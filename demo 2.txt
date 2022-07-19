@@ -2,3 +2,4 @@ App should have Features of
 1. Edit
 2. Insert
 3. Delete
+4. Refresh
